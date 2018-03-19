@@ -1,2 +1,2 @@
 # Practice-Projects
-Practice writing programs using Java. 
+Practiced writing programs using Java. Feedback would be appreciated! 
