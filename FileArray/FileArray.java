@@ -1,8 +1,8 @@
 import java.io.*;
 
-   /**
-      This class writes numbers into a file and reads numbers from a file using an int array. 
-   */
+/**
+   This class writes numbers into a file and reads numbers from a file using an int array. 
+*/
 public class FileArray
 {
    /**
